@@ -230,6 +230,15 @@ const Users: User[] = [
     tags: ['opensource'],
   },
   {
+    title: 'Avana Wallet',
+    description:
+      'A Solana blockchain non-custodial wallet that enables you to connect to Web3 decentralized apps, DeFi, GameFi, and NFT Marketplaces',
+    preview: require('./showcase/avanawallet.png'),
+    website: 'https://docs.avanawallet.com/',
+    source: null,
+    tags: ['product'],
+  },
+  {
     title: 'AvN Gateway',
     description:
       'The AvN Gateway API is the fastest way to interact with the Aventus Network Blockchain.',
